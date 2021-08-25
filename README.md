@@ -14,4 +14,6 @@ Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 FinalData.txt is the exported final data after going through all the sequences described above.
 
-# [project 3: Electric power consumption for a household- 1 year analisis](https://github.com/emmarod1996/ExData_Plotting1)
+# [](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/plot_3.png)
+
+![](figure/unnamed-chunk-5.png) 
