@@ -6,6 +6,8 @@ It is now possible to collect a large amount of data about personal movement usi
 
 This assignment makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.
 
+# ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/plot_4.png)
+
 # [Project 2: Perform de data preparation: Project overview](https://github.com/emmarod1996/GCD_Project_Course)
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
