@@ -9,7 +9,7 @@ This assignment makes use of data from a personal activity monitoring device. Th
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/plot_4.png)
 
 # [Project 2: Individual household electric power consumption](https://github.com/emmarod1996/GCD_Project_Course)
-Analisis of the measurements of electric power consumption in one household with a one-minute sampling rate over a period of 
+Analysis of the measurements of electric power consumption in one household with a one-minute sampling rate over a period of 
 almost 4 years. it could be analized what was the change of the power consumption in 4 years, besides in what weekday the global
 active power is higher.
 
@@ -36,8 +36,8 @@ several levels, depending on the severity.
 
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura3.PNG)
 
-# Project 5: Covid appointment assignment analisis through IVR
-This project consisted of an exploratory data analisis of an IVR, where the costumers used to contact in order to
+# Project 5: Covid appointment assignment analysis through IVR
+This project consisted of an exploratory data analysis of an IVR, where the costumers used to contact in order to
 schedule the covid vaccine, this analisis contained some charts that show the options the customer pressed the most, besides
 an ananlisis of what weekdays they used the IVR the most and what was the average duration of the interaction based on the option they pressed.
 
