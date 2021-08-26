@@ -27,5 +27,5 @@ In this analysis we will try to figure out what is natural event that most impac
 health.
 
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura.PNG)
-
+# ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura2.PNG)
 # ![Project 4: ]
