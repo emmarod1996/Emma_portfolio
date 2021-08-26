@@ -8,13 +8,10 @@ This assignment makes use of data from a personal activity monitoring device. Th
 
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/plot_4.png)
 
-# [Project 2: Perform de data preparation: Project overview](https://github.com/emmarod1996/GCD_Project_Course)
-Merges the training and the test sets to create one data set.
-Extracts only the measurements on the mean and standard deviation for each measurement.
-Uses descriptive activity names to name the activities in the data set
-Appropriately labels the data set with descriptive variable names.
-From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-FinalData.txt is the exported final data after going through all the sequences described above.
+# [Project 2: Individual household electric power consumption](https://github.com/emmarod1996/GCD_Project_Course)
+Analisis of the measurements of electric power consumption in one household with a one-minute sampling rate over a period of 
+almost 4 years. it could be analized what was the change of the power consumption in 4 years, besides in what weekday the global
+active power is higher.
 
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/plot_3.png)
 
@@ -39,8 +36,11 @@ several levels, depending on the severity.
 
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura3.PNG)
 
-# [Project 5: Covid appointment assignment IVR analsis]
+# [Project 5: Covid appointment assignment analsis through IVR]
 This project consisted of an exploratory data analisis of an IVR, where the costumers used to contact in order to
-schedule the covid vaccine, this analisis contains some charts that show the options the customer pressed the most, besides
-an ananlisis of what weekdays they used the IVR the most.
+schedule the covid vaccine, this analisis contained some charts that show the options the customer pressed the most, besides
+an ananlisis of what weekdays they used the IVR the most and what was the average duration of the interaction based on the option they pressed.
+
+# ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Duracion%20Interacciones_2.png)
+# ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/interacciones%20dia%20semana%20por%20c.png)
 
