@@ -28,4 +28,10 @@ health.
 
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura.PNG)
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura2.PNG)
-# ![Project 4: ]
+
+# ![Project 4: Customer experience transformation]
+This project is about a QA transformation into speech analytics. QA in BPO field is a process that ensures someone is 
+performing according the standards. it was posible to automate a process that was completely
+manual, taking all the data extracted from calls thanks to speech analytics to a dashboard in PBI.
+
+# ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura3.PNG)
