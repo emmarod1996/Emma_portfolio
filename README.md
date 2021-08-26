@@ -26,7 +26,7 @@ health.
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura.PNG)
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura2.PNG)
 
-# [Project 4: Customer experience transformation]
+# Project 4: Customer experience transformation
 This project is about a QA transformation into speech analytics. QA in BPO field is a process that ensures someone is 
 performing according the standards. it was posible to automate a process that was completely
 manual, taking all the data extracted from calls thanks to speech analytics to a dashboard in PBI.
@@ -36,7 +36,7 @@ several levels, depending on the severity.
 
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura3.PNG)
 
-# [Project 5: Covid appointment assignment analsis through IVR]
+# Project 5: Covid appointment assignment analisis through IVR
 This project consisted of an exploratory data analisis of an IVR, where the costumers used to contact in order to
 schedule the covid vaccine, this analisis contained some charts that show the options the customer pressed the most, besides
 an ananlisis of what weekdays they used the IVR the most and what was the average duration of the interaction based on the option they pressed.
