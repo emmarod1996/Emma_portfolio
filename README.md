@@ -18,3 +18,14 @@ FinalData.txt is the exported final data after going through all the sequences d
 
 # ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/plot_3.png)
 
+# [Project 3: Impact of Natural events in US economy](https://github.com/emmarod1996/impact_events)
+As we all know storms and natural events might affect both the economy and other sectors, causing several
+damages.
+This project is about exploring a database from the NOA, which tracks the natural catastrophies and all the
+caracteristics as well as its impact on economy and on the crops across the US.
+In this analysis we will try to figure out what is natural event that most impact the economy and the people’s
+health.
+
+# ![](https://github.com/emmarod1996/Emma_portfolio/blob/main/images/Captura.PNG)
+
+# ![Project 4: ]
